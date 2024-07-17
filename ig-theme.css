@@ -1,0 +1,67 @@
+:root {
+    --ig-font-family: "Lato";
+    --ig-primary-h: 209deg;
+    --ig-primary-s: 71%;
+    --ig-primary-l: 36%;
+    --ig-secondary-h: 209deg;
+    --ig-secondary-s: 70%;
+    --ig-secondary-l: 57%;
+    --ig-error-h: 347deg;
+    --ig-error-s: 51%;
+    --ig-error-l: 46%;
+    --ig-success-h: 98deg;
+    --ig-success-s: 50%;
+    --ig-success-l: 32%;
+    --ig-warn-h: 22deg;
+    --ig-warn-s: 81%;
+    --ig-warn-l: 52%;
+    --ig-info-h: 285deg;
+    --ig-info-s: 34%;
+    --ig-info-l: 33%;
+    --ig-primary-300-contrast: white;
+    --ig-primary-400-contrast: white;
+    --ig-primary-500-contrast: white;
+    --ig-primary-600-contrast: white;
+    --ig-primary-700-contrast: white;
+    --ig-primary-A200-contrast: white;
+    --ig-primary-A400-contrast: white;
+    --ig-secondary-600-contrast: black;
+    --ig-secondary-700-contrast: black;
+    --ig-secondary-A400-contrast: black;
+    --ig-error-400-contrast: white;
+    --ig-error-500-contrast: white;
+    --ig-error-600-contrast: white;
+    --ig-error-A200-contrast: white;
+    --ig-error-A400-contrast: white;
+    --ig-success-400-contrast: white;
+    --ig-success-500-contrast: white;
+    --ig-success-600-contrast: white;
+    --ig-success-700-contrast: white;
+    --ig-success-800-contrast: white;
+    --ig-success-A400-contrast: white;
+    --ig-warn-800-contrast: white;
+    --ig-warn-900-contrast: white;
+    --ig-warn-A700-contrast: white;
+    --ig-info-200-contrast: white;
+    --ig-info-300-contrast: white;
+    --ig-info-400-contrast: white;
+    --ig-info-500-contrast: white;
+    --ig-info-A100-contrast: white;
+    --ig-info-A200-contrast: white;
+}
+
+/* align icons in their containers */
+.material-icons, .imx-icon {
+  vertical-align: middle;
+}
+
+.ig-typography h1,
+.ig-typography h2,
+.ig-typography h3,
+.ig-typography h4,
+.ig-typography h5,
+.ig-typography h6,
+.ig-typography p,
+.ig-typography__body-1 {
+    margin: 0 !important;
+}
